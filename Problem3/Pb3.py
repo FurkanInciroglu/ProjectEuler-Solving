@@ -14,4 +14,4 @@ def PrimeFactors(n):
         a +=1
     return Factor
 
-print PrimeFactors(100)
+print PrimeFactors(600851475143)
